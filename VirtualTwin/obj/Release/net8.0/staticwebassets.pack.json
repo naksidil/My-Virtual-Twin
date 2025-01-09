@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\VirtualTwin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VirtualTwin.yd5k7h2mt0.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\css\\editor\\index.css",
+      "PackagePath": "staticwebassets\\css\\editor\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\css\\general.css",
+      "PackagePath": "staticwebassets\\css\\general.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\css\\main\\main.css",
+      "PackagePath": "staticwebassets\\css\\main\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\font\\Gilroy.otf",
+      "PackagePath": "staticwebassets\\font\\Gilroy.otf"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\font\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\font\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\font\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\img\\Logo.png",
+      "PackagePath": "staticwebassets\\img\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\img\\Logo.webp",
+      "PackagePath": "staticwebassets\\img\\Logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\img\\MiniLogo.webp",
+      "PackagePath": "staticwebassets\\img\\MiniLogo.webp"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\img\\dronex_logo.png",
+      "PackagePath": "staticwebassets\\img\\dronex_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\img\\dronex_logo.svg",
+      "PackagePath": "staticwebassets\\img\\dronex_logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\img\\icons\\chat.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\chat.svg"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\js\\editor\\index.js",
+      "PackagePath": "staticwebassets\\js\\editor\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\js\\general.js",
+      "PackagePath": "staticwebassets\\js\\general.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\js\\main\\main.js",
+      "PackagePath": "staticwebassets\\js\\main\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\dataTable\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\dataTable\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\dataTable\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\lib\\dataTable\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\dataTable\\dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\dataTable\\dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\dataTable\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\lib\\dataTable\\dataTables.responsive.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\dataTable\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\dataTable\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\dataTable\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\dataTable\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\dataTable\\responsive.bootstrap5.css",
+      "PackagePath": "staticwebassets\\lib\\dataTable\\responsive.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\dataTable\\responsive.bootstrap5.js",
+      "PackagePath": "staticwebassets\\lib\\dataTable\\responsive.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\excelPrint\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\excelPrint\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\excelPrint\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\lib\\excelPrint\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\excelPrint\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\lib\\excelPrint\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\excelPrint\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\lib\\excelPrint\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\excelPrint\\jszip.min.js",
+      "PackagePath": "staticwebassets\\lib\\excelPrint\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\fontawesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\fontawesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aktur\\Source\\Repos\\MyVirtualTwin\\VirtualTwin\\wwwroot\\lib\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\select2.min.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.VirtualTwin.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.VirtualTwin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.VirtualTwin.props",
+      "PackagePath": "build\\VirtualTwin.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VirtualTwin.props",
+      "PackagePath": "buildMultiTargeting\\VirtualTwin.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.VirtualTwin.props",
+      "PackagePath": "buildTransitive\\VirtualTwin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

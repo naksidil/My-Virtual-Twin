@@ -1,0 +1,28 @@
+﻿section {
+	display: flex;
+}
+
+#VirtualSideBar {
+	flex: 1;
+	padding: 20px;
+	border-right: 1px solid #ccc;
+}
+
+
+	#VirtualSideBar input[type="range"] {
+		width: 100%;
+		margin: 5px 0;
+	}
+
+#VirtualBox {
+	flex: 2;
+	display: flex;
+}
+
+#VirtualRightPanel {
+	flex: 1;
+	padding: 20px;
+	border-left: 1px solid #ccc;
+}
+
+

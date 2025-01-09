@@ -1,0 +1,63 @@
+﻿@{
+	ViewData["Title"] = "Index";
+}
+@section Styles {
+	<link href="~/css/editor/index.css" rel="stylesheet" />
+}
+@section Scripts {
+	<script src="~/js/editor/index.js"></script>
+}
+<section>
+	<div id="VirtualSideBar">
+		<h2>Yeni bir avatar oluştur</h2>
+
+		<h3>Ölçümler</h3>
+		<div>
+			<label for="height">
+				Boy (cm):
+				<span id="HeightValue">171.7</span>
+			</label>
+			<input type="range" id="Height" min="140" max="200" value="171.7">
+		</div>
+		<div>
+			<label for="weight">
+				Kilo (kg):
+				<span id="WeightValue">74.9</span>
+			</label>
+			<input type="range" id="Weight" min="40" max="120" value="74.9">
+		</div>
+		<div>
+			<label for="chest">
+				Göğüs (cm):
+				<span id="ChestValue">101.6</span>
+			</label>
+			<input type="range" id="Chest" min="70" max="130" value="101.6">
+		</div>
+		<div>
+			<label for="waist">
+				Bel (cm):
+				<span id="WaistValue">88.5</span>
+			</label>
+			<input type="range" id="Waist" min="60" max="100" value="88.5">
+		</div>
+		<div>
+			<label for="hips">
+				Kalça (cm):
+				<span id="HipsValue">100</span>
+			</label>
+			<input type="range" id="Hips" min="70" max="120" value="100">
+		</div>
+		<button id="SendDataButton">Avatarı oluştur</button>
+
+	</div>
+
+	<div id="VirtualBox">
+		<canvas id="modelCanvas" width="800" height="600"></canvas>
+	</div>
+
+	<div id="VirtualRightPanel">
+		<h3>Kıyafet Alanı</h3>
+	</div>
+
+	<!-- Submit Button to send data to the server -->
+</section>
